@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Urmi Kothari/AndroidStudioProjects/CovidVaccination/app/src/main/res/drawable-v24/gradial.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/Urmi Kothari/AndroidStudioProjects/CovidVaccination/app/src/main/res/drawable-v24/ic_baseline_access_time_24.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/Urmi Kothari/AndroidStudioProjects/CovidVaccination/app/src/main/res/drawable-v24/ic_baseline_airline_seat_flat_angled_24.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/Urmi Kothari/AndroidStudioProjects/CovidVaccination/app/src/main/res/drawable-v24/ic_baseline_local_hospital_24.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/Urmi Kothari/AndroidStudioProjects/CovidVaccination/app/src/main/res/drawable-v24/ic_baseline_location_on_24.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/Urmi Kothari/AndroidStudioProjects/CovidVaccination/app/src/main/res/drawable/animation.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/Urmi Kothari/AndroidStudioProjects/CovidVaccination/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Urmi Kothari/AndroidStudioProjects/CovidVaccination/app/src/main/res/layout/activity_splash.xml" value="0.3625" />
+        <entry key="..\:/Users/Urmi Kothari/AndroidStudioProjects/CovidVaccination/app/src/main/res/layout/center_rv_item.xml" value="0.19444444444444445" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
